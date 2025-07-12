@@ -4,10 +4,6 @@
 
 Bu proje, Windows işletim sistemlerinde yerleşik olarak bulunan Microsoft Defender antivirüs yazılımını, tek bir tıklama ile basit ve hızlı bir şekilde devre dışı bırakmak için geliştirilmiş bir otomasyon aracıdır.
 
-<p align="center">
-  <img src="https-logo-of-a-shield-with-a-red-x-mark" alt="Proje Logosu"/>
-</p>
-
 ---
 
 ## 📜 Projenin Amacı Nedir?
